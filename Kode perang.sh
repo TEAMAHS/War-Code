@@ -13,11 +13,11 @@ echo " PILIH NOMOR UNTUK MENDAPAT INFO" |lolcat
 echo " 01. Spam sms" | lolcat
 echo " 02. Spam telepon" | lolcat
 echo " 03. Hack lokasi" | lolcat
-echo " 03. Spam chat wa" | lolcat
-echo " 04. Hack fb" | lolcat
-echo " 05. Cara sadap wa" | lolcat
-echo " 06. Hack Gmail" | lolcat
-echo " 07. Spam gmail" | lolcat
+echo " 04. Spam chat wa" | lolcat
+echo " 05. Hack fb" | lolcat
+echo " 06. Cara sadap wa" | lolcat
+echo " 07. Hack Gmail" | lolcat
+echo " 08. Spam gmail" | lolcat
 echo " Ketik Nomor  : " | lolcat
 read nomor
 
