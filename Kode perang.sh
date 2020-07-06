@@ -1,6 +1,6 @@
 
 clear
-figet KODE GITHUB | lolcat
+figlet KODE GITHUB | lolcat
 echo "===============================================================================================
 
 #Coded : A SETENGAH 12
